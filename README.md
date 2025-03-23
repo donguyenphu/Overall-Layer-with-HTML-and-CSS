@@ -1,2 +1,2 @@
 # Overall-Layer-with-HTML-and-CSS
-Design of a website with HTML and CSS
+An overall view of a website with no functions, written by only HTML and CSS
